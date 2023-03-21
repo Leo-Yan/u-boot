@@ -25,7 +25,6 @@
 # CONFIG_CMD_ELF is not set
 # CONFIG_CMD_EXPORTENV is not set
 # CONFIG_CMD_EXT4_WRITE is not set
-# CONFIG_CMD_FDT is not set
 # CONFIG_CMD_GETTIME is not set
 # CONFIG_CMD_GO is not set
 # CONFIG_CMD_IDE is not set
